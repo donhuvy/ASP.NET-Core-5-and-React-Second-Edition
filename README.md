@@ -1,5 +1,7 @@
 # ASP.NET Core 5 and React - Second Edition
 
+https://www.youtube.com/watch?v=6yl-J8kcVtU&list=PLeLcvrwLe185bo6X_zz4erj0Q51kfxsC9
+
 <a href="https://www.packtpub.com/in/web-development/asp-net-core-5-and-react-second-edition"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781800206168-original_137.jpeg" alt="ASP.NET Core 5 and React - Second Edition" height="256px" align="right"></a>
 
 This is the code repository for [ASP.NET Core 5 and React - Second Edition](https://www.packtpub.com/in/web-development/asp-net-core-5-and-react-second-edition), published by Packt.
